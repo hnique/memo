@@ -18,7 +18,7 @@
 		<header class="bg-warning px-5">
 			<jsp:include page="../include/header.jsp" />
 		</header>
-		<section class="contents">
+		<section class="contents py-4">
 			<jsp:include page="../${view}.jsp" />
 		</section>
 		<footer class="bg-warning">
